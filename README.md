@@ -21,6 +21,8 @@ Currently exploring: `Agentic AI` `RAG` `Cloud Security`
 
 ### 🏆 Certifications
 
+
+- **AWS Certified Generative AI Developer - Professional**
 - **AWS Certified Security - Specialty**
 - **AWS Certified Solutions Architect**
 - **Oracle Cloud Infrastructure Certified**
@@ -30,6 +32,3 @@ Currently exploring: `Agentic AI` `RAG` `Cloud Security`
 
 [![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&count_private=true&show_icons=true&theme=dark)](https://github.com/garyhuangdev/github-readme-stats)
 
-### 📫 Connect
-
-[Email](mailto:garyhuang.dev@gmail.com)
