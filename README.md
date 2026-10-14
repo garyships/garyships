@@ -30,5 +30,5 @@ Currently exploring: `Agentic AI` `RAG` `Cloud Security`
 
 ### 📊 GitHub Stats
 
-[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyhuangdev&count_private=true&show_icons=true&theme=dark)](https://github.com/garyhuangdev/github-readme-stats)
+[![Gary's GitHub stats](https://github-readme-stats.vercel.app/api?username=garyships&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
